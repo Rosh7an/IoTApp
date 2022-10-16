@@ -1,0 +1,5 @@
+body{
+    float: inline-start;
+    display:flex;
+    justify-content:space-between;
+}

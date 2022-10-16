@@ -1,0 +1,21 @@
+#three {
+    width: 400px;
+    height: 650px;
+    background:white;
+   ;
+    
+  }
+ .write{
+    color: orange;
+    font-size: 35px;
+    margin-top: 250px;
+ }
+ .fontw{
+    font-size: 18px;
+    color: grey;
+ }
+ body{
+    border-width: 0.5rem;
+    border-color: gray;
+    border-style: solid;
+  }
